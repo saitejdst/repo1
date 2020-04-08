@@ -1,6 +1,0 @@
-
-hi
-hwru
-
-bye
-
